@@ -80,8 +80,7 @@ class Smartphone:
 
         self.model = model
         self.battery = battery_percentage
-        self.is_locked = True
-
+        
     """
     Метод заряжает телефон.
     Вводится время зарядки в минутах minutes
